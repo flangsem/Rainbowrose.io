@@ -1,0 +1,207 @@
+*{
+  margin: 1px;
+  padding: 0px:
+
+}
+
+body{
+  font-size: 100%;
+
+
+}
+
+p{
+  font-family: sans-serif;
+  font-size: 20px;
+}
+a:link{
+  text-decoration: none;
+
+}
+
+nav {
+  width: 100%;
+  height: 100px;
+  font-size: 40px;
+  position: relative;
+  bottom: 20px;
+  z-index: 100;
+}
+
+#Redb{
+  background-color: #ff6961;
+}
+#Redw{
+  color: Red;
+  position: absolute;
+  left: 37%;
+}
+
+#Orangeb{
+background-color: #ffb347;
+}
+
+#Orangew{
+color: Orange;
+position: absolute;
+right: 10%;
+}
+
+#Yellowb{
+  background-color:#fdfd96;
+}
+
+#Yelloww{
+color: Yellow;
+}
+
+#Greenb{
+  background-color:#77dd77;
+}
+
+#Greenw{
+color: Green;
+position: absolute;
+left: 35%;
+right: 10%;
+}
+
+#Blueb{
+  background-color:#779ecb;
+}
+
+#Bluew{
+color: Blue;
+}
+
+#Lillab{
+  background-color: #b19cd9
+}
+
+#Lillaw{
+color: Purple;
+position: absolute;
+right: 10%;
+}
+
+h1 {
+
+font-size: 50px;
+font-family: sans-serif;
+position: absolute;
+top: 3%;
+left:40%;
+z-index: 70;
+padding-top: 1px;
+padding-bottom: 10px;
+padding-left: 1px;
+padding-right: 20px;
+}
+
+ul{
+
+}
+
+ul li{
+  list-style: none;
+  display: inline-block;
+  float: right;
+  line-height: 100px;
+
+}
+
+ul li a{
+text-decoration: none;
+font-size: 14px;
+font-family: sans-serif;
+color: Black;
+padding:  20px;
+}
+
+.Rød :hover{
+  background-color: Red;
+}
+#Rød{
+  display: inline;
+  float: right;
+}
+
+.Oransje :hover{
+  background-color: orange;
+}
+#Oransje{
+  display: inline;
+  float: right;
+}
+
+.Gul :hover{
+  background-color: yellow;
+}
+#Gul{
+  display: inline;
+  float: right;
+}
+
+.Grønn :hover{
+  background-color: green;
+}
+
+#Grønn{
+  display: inline;
+  float: right;
+}
+
+.Blå :hover{
+  background-color: blue;
+}
+#Blå{
+  display: inline;
+  float: right;
+}
+
+.Lilla :hover{
+  background-color: purple;
+}
+
+#Lilla{
+  display: inline;
+  float: right;
+}
+img{
+  height: auto;
+  width: 100%;
+}
+
+#Bilde {
+float: left;
+padding-right: 100px;
+
+margin-left: 0px;
+position: absolute;
+left:20%;
+top: 15%;
+bottom: 10%;
+z-index: 50;
+
+}
+
+#LillaBilde {
+float: left;
+padding-right: 100px;
+
+margin-left: 0px;
+position: absolute;
+left:15%;
+top: 15%;
+z-index: 50;
+}
+
+#BlåBilde {
+float: left;
+padding-right: 100px;
+
+margin-left: 0px;
+position: absolute;
+left:7%;
+top: 15%;
+z-index: 50;

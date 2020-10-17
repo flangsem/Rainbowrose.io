@@ -1,6 +1,6 @@
 *{
   margin: 1px;
-  padding: 0px:
+  padding: 1px:
 
 }
 
@@ -19,7 +19,7 @@ a:link{
 
 }
 a:link:hover{
-  text-decoration: underline;
+  text-decoration:underline;
 
 }
 

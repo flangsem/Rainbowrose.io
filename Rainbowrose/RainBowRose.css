@@ -58,6 +58,8 @@ right: 10%;
 
 #Yelloww{
 color: Yellow;
+position: absolute;
+right: 10%
 }
 
 #Greenb{
@@ -77,6 +79,8 @@ right: 10%;
 
 #Bluew{
 color: Blue;
+position: absolute;
+right: 10%;
 }
 
 #Lillab{
